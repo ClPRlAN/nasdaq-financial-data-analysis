@@ -1,6 +1,6 @@
 # Nasdaq Financial Data Analysis
 
-A beginner data analysis project using Python and the Nasdaq Data Link API.
+A data analysis project using Python and the Nasdaq Data Link API.
 
 The project focuses on the **Accrued Expenses Turnover** metric and explores how it changes across companies and countries between 2010 and 2015.
 
@@ -37,7 +37,7 @@ For the 2010–2015 period, the Bahamas had the highest average value in the ana
 
 The analysis is available in:
 
-`nasdaq_financial_data_analysis.ipynb`
+[Open the notebook](nasdaq_financial_data_analysis.ipynb)
 
 The notebook can be opened directly in Google Colab.
 
